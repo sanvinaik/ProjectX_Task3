@@ -38,5 +38,4 @@ king - queen : 0.4102
 american - french : 0.5294
 
 But results are varying because of only first 10k words being used.
-
-6. 
+ 
